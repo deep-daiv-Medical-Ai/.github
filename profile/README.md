@@ -1,13 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Medical AI Team Banner" width="100%" />
-</p>
-
-<!-- Logo -->
-<p align="center">
-  <img src="https://your-logo-url.com/logo.png" alt="Medical AI Team Logo" width="200" />
-</p>
-
 # 🏥 Medical AI Team
 
 
@@ -50,6 +40,3 @@ Medical AI팀은 인공지능 기술을 활용하여 의료 분야의 다양한 
 
 ---
 
-<p align="center">
-  <img src="https://your-footer-image-url.com/footer.png" alt="Footer Image" width="100%" />
-</p>
